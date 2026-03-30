@@ -46,11 +46,4 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 - Matplotlib  
 - Scikit-learn  
 
----
-
-## ▶️ How to Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/Brain-Tumor-Detection.git
-cd Brain-Tumor-Detection
+----
