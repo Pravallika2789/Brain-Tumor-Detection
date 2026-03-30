@@ -1,4 +1,3 @@
-<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/0e8e9a49-1f43-487f-b318-69353cf759a5" /># 🧠 Brain Tumor Detection using CNN (Transfer Learning)
 
 ## 📌 Project Overview
 This project focuses on detecting brain tumors from MRI scan images using deep learning.  
