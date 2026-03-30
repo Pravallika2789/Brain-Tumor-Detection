@@ -1,32 +1,54 @@
-# Brain Tumor Detection using CNN
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/0e8e9a49-1f43-487f-b318-69353cf759a5" /># 🧠 Brain Tumor Detection using CNN (Transfer Learning)
 
-## Description
-This project detects brain tumors from MRI images using a deep learning model (VGG16 transfer learning).
+## 📌 Project Overview
+This project focuses on detecting brain tumors from MRI scan images using deep learning.  
+Brain Tumor Detected:
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/00c848f1-3174-4517-bbf8-12d52e1f0467" />
 
-## Features
-- Upload MRI image
-- Detect tumor presence
-- GUI-based interface
+Brain Tumor Not Detected:
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/4c2c3310-4d7e-408c-b582-b4f659439d5d" />
 
-## Technologies
-- Python
-- TensorFlow / Keras
-- OpenCV
+It is a **binary classification problem** where the model predicts whether a tumor is present (*yes*) or not (*no*).
 
-## How to Run
+Deep learning techniques, especially Convolutional Neural Networks (CNNs), are used to automatically extract features from medical images and assist in early diagnosis.
 
-1. Install dependencies:
-pip install -r requirements.txt
+---
 
-2. Run the app:
-python app.py
+## 🎯 Objective
+- To build an automated system for detecting brain tumors from MRI images  
+- To improve diagnostic accuracy using deep learning techniques  
+- To handle small datasets effectively using transfer learning  
 
-## Dataset
-Dataset not included due to size.
+---
 
-## Model
-Download model from:
-[PASTE GOOGLE DRIVE LINK HERE]
+## 📊 Dataset
+- MRI brain images(from kaggle)
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+- Total dataset size: **253 images** :contentReference[oaicite:0]{index=0}  
 
-## Output
-(Add screenshot in images folder)
+
+## 🚀 Features
+- Detects brain tumors from MRI images
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/fefd7319-d207-42a7-a65f-15743f1eb94c" />
+
+- Uses transfer learning for better performance  
+- Works effectively on small datasets  
+- Can be integrated with GUI for real-time predictions  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- TensorFlow    
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/Brain-Tumor-Detection.git
+cd Brain-Tumor-Detection
