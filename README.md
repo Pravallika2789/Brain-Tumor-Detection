@@ -1,10 +1,15 @@
 
 ## 📌 Project Overview
 This project focuses on detecting brain tumors from MRI scan images using deep learning.  
-Brain Tumor Detected:
+
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/fefd7319-d207-42a7-a65f-15743f1eb94c" />
+
+-Brain Tumor Detected:
+
 <img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/00c848f1-3174-4517-bbf8-12d52e1f0467" />
 
-Brain Tumor Not Detected:
+-Brain Tumor Not Detected:
+
 <img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/4c2c3310-4d7e-408c-b582-b4f659439d5d" />
 
 It is a **binary classification problem** where the model predicts whether a tumor is present (*yes*) or not (*no*).
@@ -28,8 +33,6 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 ## 🚀 Features
 - Detects brain tumors from MRI images
-<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/fefd7319-d207-42a7-a65f-15743f1eb94c" />
-
 - Uses transfer learning for better performance  
 - Works effectively on small datasets  
 - Can be integrated with GUI for real-time predictions  
